@@ -1,6 +1,3 @@
-Sure, here's a detailed README file for your MERN Stack Task Management Application:
-
----
 
 # MERN Stack Task Management Application
 
